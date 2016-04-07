@@ -8,7 +8,7 @@ USAGE
 
 from npm script:
 
-    ```javascript
+    ```js
     scripts: {
       assess: "jasmine_json_assess path/to/json-file.json"
     }
@@ -16,7 +16,7 @@ from npm script:
 
 from code
 
-    ```javascript
+    ```js
     var assess = require 'jasmine_json_assess';
 
     const suite_set   = require("path/to/json-file.json");
