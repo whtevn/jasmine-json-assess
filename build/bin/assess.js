@@ -1,4 +1,4 @@
-#!/bin/sh node
+#!/usr/bin/env node
 'use strict';
 
 var _index = require('../index');

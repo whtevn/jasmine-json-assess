@@ -1,4 +1,4 @@
-#!/bin/sh node
+#!/usr/bin/env node
 import assess from '../index';
 
 const suite_set   = require(`${process.cwd()}/${process.argv.slice(-1)}`);

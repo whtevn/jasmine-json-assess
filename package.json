@@ -11,7 +11,7 @@
   },
   "main": "./build/index.js",
   "bin": {
-    "assess_jasmine_json": "./build/bin/assess.js"
+    "jasmine_json_assess": "./build/bin/assess.js"
   },
   "keywords": [],
   "author": "",
